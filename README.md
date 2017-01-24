@@ -7,7 +7,7 @@ The protoPi is a Raspberry pi prototyping shield with a small soldering area, LE
 ##Repository Contents
 
 /Hardware - Design files (.brd, .sch)  
-/Firmware - bootloader
+/Firmware - bootloader  
 /Documentation - datasheet and examples
 
 ##Product Versions
