@@ -4,7 +4,9 @@ NextOne is one of the best board to start your personal electronics projects, it
 
 You can power the RedBoard over USB or through the barrel jack. The on-board power regulator can handle anything from 7 to 15VDC.
 
+
 Nextronic Product page:[NextOne](http://nextronic.ma/product/nextone/).
+
 you can by it at: [makershop.ma](http://makershop.ma/).
 
 
