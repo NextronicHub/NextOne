@@ -11,16 +11,16 @@ you can by it at: [makershop.ma](http://makershop.ma/).
 
 
 
-##Repository Contents
+#Repository Contents
 
 /Hardware - Design files (.brd, .sch)  
 /Firmware - bootloader  
 /Documentation - datasheet and examples
 
-##Product Versions
+#Product Versions
 
 NextOne_V1 first release
 
-##License Information
+#License Information
 
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
