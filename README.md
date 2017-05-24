@@ -17,6 +17,8 @@ I2C, UART and SPI<br />
 All SMD Construction<br />
 R3 Shield Compatible<br />
 <br /><br />
+[FTDI driver](http://www.ftdichip.com/Drivers/VCP.htm)
+
 Nextronic Product page:[NextOne](http://nextronic.ma/product/nextone/).
 
 you can by it at: [makershop.ma](http://makershop.ma/).
