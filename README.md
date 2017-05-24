@@ -1,6 +1,8 @@
 # Nextronic NextOne
 
 NextOne is one of the best board to start your personal electronics projects, it is built upon the famous ARDUINO UNO, so it shares its simplicity and its flexibility. NextOne can be programmed over a USB Mini-B cable using the Arduino IDE: Just plug in the board, select “Arduino UNO” from the board menu and you’re ready to upload code. NextOne has all of the hardware peripherals like the Arduino. NextOne is an R3 shield compatibility so you can plug all the Arduino shields.
+NextOne is built upon the [Arduino UNO](https://www.arduino.cc/en/Main/ArduinoBoardUno) and the sparkfun [RedBoard](https://www.sparkfun.com/products/13975).
+
 
 ## Features:
 
